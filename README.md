@@ -2,7 +2,7 @@
 
 A simple and responsive weather application built using **HTML**, **CSS**, and **JavaScript**. This project fetches real-time weather data using a public **Weather API** and dynamically updates the interface based on the location entered by the user.
 
-## 🔍 Features
+## 🔍 Feature
 
 - 🌐 Fetches real-time weather data by city name
 - 🌡️ Displays temperature, weather condition, humidity, and wind speed
